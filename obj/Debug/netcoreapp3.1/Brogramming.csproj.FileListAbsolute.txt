@@ -1,0 +1,11 @@
+C:\Users\Vipertoo\source\repos\Brogramming\Brogramming\bin\Debug\netcoreapp3.1\Brogramming.exe
+C:\Users\Vipertoo\source\repos\Brogramming\Brogramming\bin\Debug\netcoreapp3.1\Brogramming.deps.json
+C:\Users\Vipertoo\source\repos\Brogramming\Brogramming\bin\Debug\netcoreapp3.1\Brogramming.runtimeconfig.json
+C:\Users\Vipertoo\source\repos\Brogramming\Brogramming\bin\Debug\netcoreapp3.1\Brogramming.runtimeconfig.dev.json
+C:\Users\Vipertoo\source\repos\Brogramming\Brogramming\bin\Debug\netcoreapp3.1\Brogramming.dll
+C:\Users\Vipertoo\source\repos\Brogramming\Brogramming\bin\Debug\netcoreapp3.1\Brogramming.pdb
+C:\Users\Vipertoo\source\repos\Brogramming\Brogramming\obj\Debug\netcoreapp3.1\Brogramming.csprojAssemblyReference.cache
+C:\Users\Vipertoo\source\repos\Brogramming\Brogramming\obj\Debug\netcoreapp3.1\Brogramming.AssemblyInfoInputs.cache
+C:\Users\Vipertoo\source\repos\Brogramming\Brogramming\obj\Debug\netcoreapp3.1\Brogramming.AssemblyInfo.cs
+C:\Users\Vipertoo\source\repos\Brogramming\Brogramming\obj\Debug\netcoreapp3.1\Brogramming.dll
+C:\Users\Vipertoo\source\repos\Brogramming\Brogramming\obj\Debug\netcoreapp3.1\Brogramming.pdb
